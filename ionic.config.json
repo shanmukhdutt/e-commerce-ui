@@ -1,0 +1,7 @@
+{
+  "name": "ecomlogoutin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
